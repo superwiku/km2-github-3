@@ -6,9 +6,10 @@ Makan Siang
 - Nasi goreng ayam
 - nasi padang
 - Baso beranak
+- Rica Rica Buntut Kadal
 
 Makan Malam
--ayam bakar
+- ayam bakar
 - Rawon
 - Nasi Padang
 - Sate with ayang
@@ -16,5 +17,3 @@ Makan Malam
 
 Minum :
 - Sprite
-
-
