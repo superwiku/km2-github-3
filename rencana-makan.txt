@@ -4,6 +4,7 @@ Sarapan
 Makan Siang
 - Nasi goreng ayam
 - nasi padang
+- nasi rames
 
 Makan Malam
 - Nasi Padang
