@@ -4,3 +4,6 @@ Sarapan
 Makan Siang
 
 Makan Malam
+
+Minum :
+- Sprite
