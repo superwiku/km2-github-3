@@ -3,5 +3,6 @@ Sarapan
 
 Makan Siang
 - nasi padang
+- nasi rames
 
 Makan Malam
