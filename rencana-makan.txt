@@ -19,5 +19,6 @@ Makan Malam
 Minum :
 - Sprite
 - Fanta
+- Susu
 
 
