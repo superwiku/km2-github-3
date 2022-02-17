@@ -1,6 +1,8 @@
 Sarapan
 - pisang goreng
+- roti 
 - nasi kuning telur daging
+
 
 Makan Siang
 - Nasi goreng ayam
@@ -16,5 +18,7 @@ Makan Malam
 
 Minum :
 - Sprite
+- Fanta
+- Susu
 
 
